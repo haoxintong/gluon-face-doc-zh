@@ -82,4 +82,5 @@ Gluon Face中的损失函数
     安装 <install>
     数据 <datasets>
     模型 <model_zoo>
+    相关论文 <papers/index>
     API参考 <api/index>
